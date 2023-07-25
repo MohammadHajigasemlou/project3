@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\project test\bin\Debug\net7.0\project test.exe
+C:\Users\LENOVO\Desktop\project test\bin\Debug\net7.0\project test.deps.json
+C:\Users\LENOVO\Desktop\project test\bin\Debug\net7.0\project test.runtimeconfig.json
+C:\Users\LENOVO\Desktop\project test\bin\Debug\net7.0\project test.dll
+C:\Users\LENOVO\Desktop\project test\bin\Debug\net7.0\project test.pdb
+C:\Users\LENOVO\Desktop\project test\obj\Debug\net7.0\project test.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\project test\obj\Debug\net7.0\project test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\project test\obj\Debug\net7.0\project test.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\project test\obj\Debug\net7.0\project test.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\project test\obj\Debug\net7.0\project test.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\project test\obj\Debug\net7.0\project test.dll
+C:\Users\LENOVO\Desktop\project test\obj\Debug\net7.0\refint\project test.dll
+C:\Users\LENOVO\Desktop\project test\obj\Debug\net7.0\project test.pdb
+C:\Users\LENOVO\Desktop\project test\obj\Debug\net7.0\project test.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\project test\obj\Debug\net7.0\ref\project test.dll
